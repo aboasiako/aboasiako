@@ -1,4 +1,4 @@
-Hi, I'm Antwi BOasiako
+Hi, I'm @aboasiako. You can simply call me Alfred.
 
 I'm a passionate learner, currently diving into the world of backend development.
 
