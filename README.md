@@ -1,4 +1,4 @@
-Hi, I'm @aboasiako
+Hi, I'm Antwi BOasiako
 
 I'm a passionate learner, currently diving into the world of backend development.
 
